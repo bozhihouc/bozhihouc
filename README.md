@@ -16,16 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bozhihouc&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozhihouc)](https://github.com/anuraghazra/github-readme-stats)
-
-### 分割线
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=bozhihouc&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bozhihouc&layout=compact&theme=radical" />
-</a> 
-<a href="https://github.com/bozhihouc/bozhihouc">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bozhihouc&theme=radical" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozhihouc&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
