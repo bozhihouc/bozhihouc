@@ -25,11 +25,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bozhihouc&layout=compact&theme=radical" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bozhihouc&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+</a> 
+<a href="https://github.com/bozhihouc/bozhihouc">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bozhihouc&theme=radical" />
 </a>
